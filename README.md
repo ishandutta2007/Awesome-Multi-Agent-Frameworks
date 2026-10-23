@@ -77,7 +77,7 @@ The table below outlines leading enterprise SaaS platforms and managed developer
 
 The following curated open-source repositories provide self-hosted runtimes, explicit control flows, and transparent agent coordination frameworks. 
 
-The list is sorted in **descending order by GitHub star count** (updated in real time via live GitHub metrics).
+The list is sorted in **descending order by GitHub Stars_Count** (updated in real time via live GitHub metrics).
 
 ### 1. 🤖 [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 <a href="https://github.com/Significant-Gravitas/AutoGPT/stargazers"><img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white" alt="AutoGPT Stars" /></a>
@@ -249,7 +249,7 @@ Contributions are warmly welcomed! Help us keep this directory exhaustive and up
 2. 🌿 **Create a Branch**: `git checkout -b feature/add-new-framework`.
 3. 📝 **Add Your Entry**:
    - Ensure factual accuracy and link to official documentation.
-   - Include pricing, free tier details, or GitHub star count badges.
+   - Include pricing, free tier details, or GitHub Stars_Count badges.
    - Follow the existing alphabetical or sorted convention.
 4. 🚀 **Submit a Pull Request**: Provide a clear explanation of why the framework belongs in this curated collection.
 
