@@ -1,6 +1,6 @@
 # Awesome-Multi-Agent-Frameworks
 
-# Top Multi-Agent Frameworks Ecosystem
+## Top Multi-Agent Frameworks Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Role-Based Crews, Graph State Machines & Production-Grade Observability*  
